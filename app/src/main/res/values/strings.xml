@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DaVinciApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Leonardo Da Vinci</string>
+    <string name="nav_header_subtitle">Polímata</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="item_alta">Alta</string>
+    <string name="item_baja">Baja</string>
+    <string name="item_modificacion">Modificación</string>
+
+    <string name="menu_inicio">Inicio</string>
+    <string name="menu_pintor">Pintor</string>
+    <string name="menu_escultor">Escultor</string>
+    <string name="menu_cientifico">Científico</string>
+        <string name="cientifico_image">fff</string>
+        <string name="cientifico_title">fff</string>
+        <string name="cientifico_description">fff</string>
+    <string name="meno_inventor">Inventor</string>
+</resources>

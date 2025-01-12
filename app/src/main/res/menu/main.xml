@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/item_alta"
+        android:orderInCategory="100"
+        android:title="@string/item_alta"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/item_baja"
+        android:orderInCategory="101"
+        android:title="@string/item_baja"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/item_modificacion"
+        android:orderInCategory="102"
+        android:title="@string/item_modificacion"
+        app:showAsAction="never" />
+
+</menu>
